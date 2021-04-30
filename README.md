@@ -1,29 +1,15 @@
-# React Nice Resume :page_with_curl:
+# COVID-InfoSite - Get COVID related information 
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+# About 
+#### This website is designed to provide updated and verified information about COVID – 19 under one roof.
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
-
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
-
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
 
 # Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+-	Implemented COVID- Tracker to provide information about total cases worldwide through data visualization ( Graph) , Map, and Table.
+-	Fetched Data from API and used that data in website.
+-	Connected to real time database using Firebase Firestore so that whenever user click submit button the inputed data gets reflected in Firestore.
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+#Technologies Used: 
+HTML, CSS3, Bootstrap4, React Js, API, NPM Packages, Firestore, Deployed on Firebase.
 
-# Run Project
-### 1. Clone the project
-
-### 2. Run the project
-```shell
-npm i
-npm start
-```
-
-### 3. Build
-```shell
-npm run build
-```
+### [LIVE DEMO](https://covid-19-tracker-72720.web.app/)
