@@ -5,9 +5,10 @@
 
 
 # Description
+- Has Verifies information by World Health Organisation (WHO)
+- Has Symptoms section 
 -	Implemented COVID- Tracker to provide information about total cases worldwide through data visualization ( Graph) , Map, and Table.
--	Fetched Data from API and used that data in website.
--	Connected to real time database using Firebase Firestore so that whenever user click submit button the inputed data gets reflected in Firestore.
+- This is my contribution to society
 
 #Technologies Used: 
 HTML, CSS3, Bootstrap4, React Js, API, NPM Packages, Firestore, Deployed on Firebase.
