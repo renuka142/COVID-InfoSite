@@ -10,7 +10,7 @@
 -	Implemented COVID- Tracker to provide information about total cases worldwide through data visualization ( Graph) , Map, and Table.
 - This is my contribution to society
 
-#Technologies Used: 
+# Technologies Used: 
 HTML, CSS3, Bootstrap4, React Js, API, NPM Packages, Firestore, Deployed on Firebase.
 
 ### [LIVE DEMO](https://covid-19-tracker-72720.web.app/)
