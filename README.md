@@ -13,3 +13,5 @@
 # Technologies Used: 
 HTML, CSS3, Bootstrap4, React Js, API, NPM Packages, Firestore, Deployed on Firebase.
 
+### Note
+The Project is in working phase because of which live demo link is removed
