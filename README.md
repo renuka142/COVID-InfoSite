@@ -13,4 +13,3 @@
 # Technologies Used: 
 HTML, CSS3, Bootstrap4, React Js, API, NPM Packages, Firestore, Deployed on Firebase.
 
-### [LIVE DEMO](https://covid-19-tracker-72720.web.app/)
